@@ -173,7 +173,7 @@ Follow the steps below to get the code at Office 365, and then go to the other d
     
 2. Choose the option to manage your domain's DNS records:
     
-1. In the domains setup wizard, on the **Set up your online services** page, choose **Set up my online services for me. (Recommended)**, and then choose **Next**.
+1. In the domains setup wizard, on the **Set up your online services** page, choose **Set up my online services for me. (Recommended)**, and then choose **Next**. **If your Domain is used for hosting a website, please choose "I'll manage my own DNS records".**
     
 2. If you haven't verified the domain yet, follow the steps to do that first.
     
